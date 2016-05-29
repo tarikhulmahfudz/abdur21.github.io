@@ -1,10 +1,10 @@
 # Site
-title:              EMEN
-bio:                'tugas application mobile'
-description:        "tugas application mobile abdurahman"
+title:              Abdur Rahman
+bio:                'hanya seorang Newbie'
+description:        "Suka mencoba Sesuatu yang Baru dibidang IT"
 reading_time:       true
 words_per_minute:   200
-logo:               'assets/img/logo.png'
+logo:               'assets/img/maman.jpg'
 background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
@@ -39,7 +39,7 @@ disqus_shortname:   taylantatli
 #bing-verify:
 #email:
 #twitter:            username
-facebook:           username
+#facebook:           
 github:             http://abdur21.github.io/
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
